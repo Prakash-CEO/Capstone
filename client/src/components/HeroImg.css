@@ -1,0 +1,38 @@
+/* HeroImg.css */
+.hero-container {
+  background-color: white;
+  text-align: center;
+  padding: 40px;
+}
+.flyer img {
+  width: 100%; /* Set the width to 100% to make it full width */
+}
+h1 {
+  font-size: 32px;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.buttons a {
+  margin: 0 10px;
+}
+
+.banking-container,
+.savings-container,
+.loans-container {
+  background-color: rgb(164, 190, 139);
+  border: 1px solid #ccc;
+  padding: 20px;
+  text-align: center;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  margin-top: 20px;
+}
+
+h2 {
+  font-size: 24px;
+}

@@ -1,0 +1,6 @@
+.table-container {
+  display: flex;
+  justify-content: center;
+  padding: 10px; /* Add border style here */
+  border-radius: 100px;
+}
